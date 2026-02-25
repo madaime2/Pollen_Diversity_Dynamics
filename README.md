@@ -1,7 +1,7 @@
-# Reconstructing the diversity dynamics of Late Quaternary grasslands through application of deep learning on superresolution images of fossil Poaceae pollen
+# Deep learning of fossil pollen morphology reveals 25,000 years of ecological change in East African grasslands
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Figure_2_MountKenya_Map.png" width="950" title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Rutundu_Figure_2_Revised.png" width="950" title="hover text">
 </p>
 
 <p align="center">
