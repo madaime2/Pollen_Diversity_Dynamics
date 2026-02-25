@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Figures_1-4.png" width="750" title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Rutundu_Figures_1-4_Revised.png" width="750" title="hover text">
 </p>
   
 # Abstract
