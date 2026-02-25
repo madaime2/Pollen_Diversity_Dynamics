@@ -9,7 +9,13 @@
 <p align="center">
   <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Rutundu_Figure_1_4_Revised.png" width="750" title="hover text">
 </p>
-  
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Rutundu_Figure_5_Revised.png" width="750" title="hover text">
+</p>
+
 # Abstract
 Grass pollen is largely overlooked in investigating grassland evolution because the pollen of most species cannot be differentiated using traditional optical microscopy. However, deep learning can quantify small variations in pollen morphology visible under superresolution microscopy. We use the abstract features output by deep learning to estimate the taxonomic diversity and physiology of fossil grass pollen assemblages. Using a semi-supervised learning strategy, we trained convolutional neural networks (CNNs) on superresolution pollen images of modern grasses and unlabeled fossil Poaceae. Our models captured features that reflected both the taxonomic diversity of grass communities along an elevational gradient and morphological differences between C<sub>3</sub> and C<sub>4</sub> species. We applied our trained models to fossil grass pollen assemblages from a 25,000-year lake-sediment record from eastern equatorial Africa (Mt. Kenya) and correlated past shifts in grass diversity with atmospheric CO<sub>2</sub> concentration and proxy records of local temperature, precipitation, and fire occurrence. We quantified changes in grass diversity using morphological variability of fossil pollen assemblages, approximated by the Shannon entropy of CNN features. Our data show that grassland species diversity was strongly reduced between 21,500 and 16,000 years ago, coincident with most severe regional cooling during the last ice age. C<sub>3</sub>:C<sub>4</sub> ratios reconstructed using a gradient-boosted decision tree classifier infer a gradual decrease in C<sub>4</sub> grasses since the late-glacial to Holocene transition, associated with decreasing fire activity and elevated temperatures. Our results demonstrate that CNN features of pollen morphology can advance palynological analysis, enabling robust estimation of grass diversity and C<sub>3</sub>:C<sub>4</sub> ratio in ancient grassland ecosystems. 
 
